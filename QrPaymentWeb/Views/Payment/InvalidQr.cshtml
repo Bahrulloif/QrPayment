@@ -1,0 +1,17 @@
+@model QrPaymentWeb.ViewModels.PaymentErrorViewModel
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<div class="error-container">
+    <div class="error-card">
+
+        <div class="error-icon">⚠️</div>
+
+        <h2>@Model.Title</h2>
+
+        <p>@Model.Message</p>
+
+    </div>
+</div>

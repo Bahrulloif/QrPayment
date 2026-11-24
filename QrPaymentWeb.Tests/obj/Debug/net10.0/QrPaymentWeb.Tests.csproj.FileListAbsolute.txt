@@ -111,3 +111,4 @@ D:\workspace\QrPaymentWeb\QrPaymentWeb.Tests\bin\Debug\net10.0\QrPaymentWeb.stat
 D:\workspace\QrPaymentWeb\QrPaymentWeb.Tests\bin\Debug\net10.0\QrPaymentWeb.exe
 D:\workspace\QrPaymentWeb\QrPaymentWeb.Tests\bin\Debug\net10.0\QrPaymentWeb.dll
 D:\workspace\QrPaymentWeb\QrPaymentWeb.Tests\bin\Debug\net10.0\QrPaymentWeb.pdb
+D:\workspace\QrPaymentWeb\QrPaymentWeb.Tests\obj\Debug\net10.0\QrPaymentWeb.Tests.sourcelink.json

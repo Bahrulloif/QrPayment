@@ -125,7 +125,6 @@ D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\rjsmcshtml.dswa.cache.j
 D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\scopedcss\bundle\QrPaymentWeb.styles.css
 D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\scopedcss\projectbundle\QrPaymentWeb.bundle.scp.css
-D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\compressed\nte9ndgnzx-{0}-jv4y2oo1xx-jv4y2oo1xx.gz
 D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\compressed\wphxc2uvnt-{0}-b9sayid5wm-b9sayid5wm.gz
 D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\compressed\ixa25wphma-{0}-61n19gt1b8-61n19gt1b8.gz
 D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\compressed\3udj7yc9r2-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
@@ -200,3 +199,5 @@ D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\refint\QrPaymentWeb.dll
 D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\QrPaymentWeb.pdb
 D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\QrPaymentWeb.genruntimeconfig.cache
 D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\ref\QrPaymentWeb.dll
+D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\QrPaymentWeb.sourcelink.json
+D:\workspace\QrPaymentWeb\QrPaymentWeb\obj\Debug\net10.0\compressed\nte9ndgnzx-{0}-dziu26bb41-dziu26bb41.gz

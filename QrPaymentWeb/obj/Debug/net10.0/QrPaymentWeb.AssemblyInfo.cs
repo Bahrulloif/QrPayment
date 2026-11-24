@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QrPaymentWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b03f3046dc2d13a7c9a8caeb4577faceb52b726")]
 [assembly: System.Reflection.AssemblyProductAttribute("QrPaymentWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QrPaymentWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
